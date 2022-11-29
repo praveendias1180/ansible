@@ -20,3 +20,9 @@ sudo apt install ansible
 
 ![](install-ansible.png)
 
+# Ansible Inventory
+
+`sudo nano /etc/ansible/hosts`
+
+![](inventory.png)
+
