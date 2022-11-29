@@ -30,3 +30,10 @@ sudo apt install ansible
 
 ![](ansible-ping.png)
 
+# Ansible Commands
+
+# Execute ad-hoc commands from an Ansible Control Node
+
+![](df-h.png)
+
+![](adhoc.png)
