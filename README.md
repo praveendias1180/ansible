@@ -26,6 +26,10 @@ sudo apt install ansible
 
 ![](inventory.png)
 
+## Ansible Hosts on AWS
+
+![](aws-hosts.png)
+
 # Ansible Connection Testing
 
 ![](ansible-ping.png)
