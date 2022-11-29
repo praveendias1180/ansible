@@ -53,3 +53,5 @@ ansible-playbook -i inventory playbook.yml
 ![](playbook.png)
 
 ![](nginx.png)
+
+See the [playbook.yml](playbook.yml) file for more details.
