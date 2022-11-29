@@ -41,3 +41,15 @@ sudo apt install ansible
 ![](df-h.png)
 
 ![](adhoc.png)
+
+# Execute Ansible Playbooks to Automate Server Setup
+
+## Install NGINX on Remote Host
+
+```
+ansible-playbook -i inventory playbook.yml
+```
+
+![](playbook.png)
+
+![](nginx.png)
