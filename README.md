@@ -26,3 +26,7 @@ sudo apt install ansible
 
 ![](inventory.png)
 
+# Ansible Connection Testing
+
+![](ansible-ping.png)
+
